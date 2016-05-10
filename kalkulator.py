@@ -1,6 +1,6 @@
 def dodawanie():
 	a=int(input())
 	b=int(input())
-	print(abs+b)
+	print(a+b)
 	
 dodawanie()
